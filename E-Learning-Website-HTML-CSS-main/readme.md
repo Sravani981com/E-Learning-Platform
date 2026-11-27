@@ -2,7 +2,7 @@
 
 A responsive and user-friendly E-Learning Website developed using HTML5, CSS3, Bootstrap 5, and JavaScript. The platform provides an organized interface for learners to explore online courses, discover instructors, and access learning-related information.
 
-![E-Learning Platform](preview.jpg)
+
 
 ## 📌 About the Project
 
